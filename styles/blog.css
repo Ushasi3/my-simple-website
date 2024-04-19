@@ -7,3 +7,15 @@ div{
     height: 500px;
     width: 1200px;
 }
+
+.kim{
+    background-color: rgb(197, 147, 125);
+    padding: 10px;
+    margin: 100px;
+    border: 30px solid rgb(11, 43, 11);
+    border-radius: 20px;
+    height: 500px;
+    width: 1200px;
+    box-shadow: 33px 39px 30px rgb(254, 32, 32);
+}
+
